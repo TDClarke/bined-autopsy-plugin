@@ -18,6 +18,7 @@ Features
 --------
 
   * Visualize data as numerical (hexadecimal) codes and text representation
+  * Open Hexpat files to inspect the data's structure
   * Codes can be also binary, octal or decimal
   * Support for Unicode, UTF-8 and other charsets
   * Insert and overwrite edit modes
